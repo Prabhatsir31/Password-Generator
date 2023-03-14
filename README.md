@@ -1,2 +1,2 @@
 # Password-Generator
-<img src="image.png" height="300" width="400">
+<img src="https://github.com/Prabhatsir31/Password-Generator/blob/main/image.png" height="300" width="400">
